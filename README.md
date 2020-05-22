@@ -10,6 +10,9 @@ This holds the code for our team project. It:
 The app is running live on Heroku at
 [http://corkboardit.herokuapp.com/](http://corkboardit.herokuapp.com/).
 
+User: mZancanella@fakedomain.com
+Pw: 1234
+
 ## Prerequisites
 
 Since this is a class on databases, I suppose the most important part is to make
